@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+}
+a{
+	text-decoration:none;
+	color: black;
+	font-size: 
+}
+
+
+.navbar{
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: white;
+}
